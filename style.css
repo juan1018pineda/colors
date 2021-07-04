@@ -1,0 +1,19 @@
+body {
+    margin: 20px;
+}
+
+label {
+    margin: 20px;
+}
+
+.container {
+    margin: 20px;
+    width: 700px;
+}
+.color-box {
+    width: 100px;
+    height: 100px;
+    border: 1px solid black;
+    float: left;
+    background-color: #f1f1f1;
+}
